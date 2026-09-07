@@ -2,7 +2,7 @@
 ## Title: EggTimer Continued
 ## Notes: Tracks hatch/ripen timers on Mysterious Egg, Disgusting Jar and similar unique perishables across all your characters.
 ## Author: AleshWoW. Reimplementation of EggTimer by diocode and jokeyrhyme.
-## Version: 2.0.0
+## Version: 1.0.0
 ## SavedVariables: EggTimerDB
 ## IconTexture: Interface\AddOns\EggTimerContinued\Icon
 ## X-License: MIT
