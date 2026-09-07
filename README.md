@@ -50,9 +50,3 @@ and it has been abandoned since jokeyrhyme stopped playing in 2010.
 shares no code with the original: different libraries, a bag-scan detection
 model, account-wide storage. Only the name and the tracked-item list carry over.
 Licensed MIT.
-
-## Install
-
-Install **EggTimer Continued** through CurseForge or your addon manager. To run
-from source, drop the packaged `EggTimerContinued` folder into `Interface/AddOns`
-(or `scripts/link.sh` to symlink this repo there for development).

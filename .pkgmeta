@@ -8,10 +8,7 @@ externals:
 
 ignore:
   - .claude
-  - .development
-  - .planning
   - scripts
   - .gitignore
+  - .gitattributes
   - .luarc.json
-  - .vscode
-  - README.md
