@@ -42,11 +42,12 @@ forget a jar has been sitting ready for a week.
 
 ## History
 
-The original **EggTimer** was written by **diocode** and **jokeyrhyme**, BSD
-licensed, last released in 2010 for game version 3.3
-([WowAce project](https://www.wowace.com/projects/eggtimer)). It detected items
-by parsing loot chat messages, which never worked for these vendor-bought items,
-and it has been abandoned since jokeyrhyme stopped playing in 2010.
+The original [**EggTimer**](https://www.curseforge.com/wow/addons/eggtimer) was
+written by **diocode** and **jokeyrhyme**, BSD licensed, and last updated in
+November 2010 ([WowAce project](https://www.wowace.com/projects/eggtimer), where
+jokeyrhyme asked for a new maintainer). It detected items by parsing loot chat
+messages, which never worked for these vendor-bought items, and it has been
+abandoned since.
 
 **EggTimer Continued** is a ground-up reimplementation for current retail. It
 shares no code with the original: different libraries, a bag-scan detection
