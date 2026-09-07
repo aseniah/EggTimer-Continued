@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Libs/ is vendored directly and tracked in git; the .pkgmeta externals only
+# replace it at release time.
+
+# Build output
+*.zip
+.release/
+
+# Logs
+*.log
+
+# Claude Code worktrees / scratch
+.claude/worktrees/
+.superpowers/

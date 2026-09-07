@@ -1,0 +1,9 @@
+# Project source: normalise to LF.
+*.lua text eol=lf
+*.toc text eol=lf
+*.md  text eol=lf
+*.sh  text eol=lf
+
+# Vendored third-party libs: keep exactly as upstream ships them.
+# Last match wins in gitattributes, so this overrides the *.lua rule above.
+Libs/** -text
