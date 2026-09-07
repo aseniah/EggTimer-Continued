@@ -11,8 +11,6 @@
 --     a cosmetic estimate from `days` below.
 --   * Data is account-wide (SavedVariables: EggTimerDB), keyed "Name-Realm", so
 --     an alt on another realm shows up in the tooltip on your main.
---
--- See .claude/CLAUDE.md in the repo for maintenance notes.
 
 local ADDON = ...
 
