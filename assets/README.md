@@ -11,7 +11,7 @@ Prompt: WoW ability icon, a single speckled egg with a glowing golden crack leak
 
 ## the_egg_timer.png
 
-AI render, same session. Not used as the icon (an hourglass reads as a generic timer at 20px). Kept for the CurseForge banner.
+AI render, same session. Rejected for the icon (an hourglass reads as a generic timer at 20px); kept as the unused alternate.
 Prompt: WoW item icon, ornate hourglass with a glowing egg in the upper bulb and golden motes falling, oil-painted, dark vignette, square.
 
 ## icon-source.png
