@@ -32,7 +32,7 @@ local TRACKED = {
 	--   sourceName = "Ahn'kahar Watcher's Corpse", resultName = "Watcher's Corpse Dust", verb = "decayed" },
 }
 
-local ICON = "Interface\\ICONS\\INV_Egg_02"
+local ICON = "Interface\\AddOns\\EggTimerContinued\\Icon"
 local PREFIX = "|cff33ff99EggTimer|r: "
 local GRAY, GREEN, YELLOW = "|cff808080", "|cff40ff40", "|cffffd100"
 local DAY = 86400

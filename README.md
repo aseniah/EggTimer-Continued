@@ -1,3 +1,5 @@
+<img src="assets/icon-source.png" width="64" align="left" />
+
 # EggTimer Continued
 
 Tracks unique, vendor-bought perishable items that auto-transform after a few

@@ -9,6 +9,7 @@ externals:
 ignore:
   - .claude
   - scripts
+  - assets
   - .gitignore
   - .gitattributes
   - .luarc.json

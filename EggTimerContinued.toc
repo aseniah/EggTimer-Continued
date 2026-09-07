@@ -4,7 +4,7 @@
 ## Author: AleshWoW. Reimplementation of EggTimer by diocode and jokeyrhyme.
 ## Version: 2.0.0
 ## SavedVariables: EggTimerDB
-## IconTexture: Interface\ICONS\INV_Egg_02
+## IconTexture: Interface\AddOns\EggTimerContinued\Icon
 ## X-License: MIT
 
 Libs\LibStub\LibStub.lua

@@ -4,6 +4,10 @@
 *.md  text eol=lf
 *.sh  text eol=lf
 
+# Binary assets.
+*.png -text
+*.tga -text
+
 # Vendored third-party libs: keep exactly as upstream ships them.
 # Last match wins in gitattributes, so this overrides the *.lua rule above.
 Libs/** -text
